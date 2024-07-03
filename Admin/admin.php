@@ -7,6 +7,6 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        HELLO WORD <h1></h1>
+    jhhfI
     </body>
 </html>
